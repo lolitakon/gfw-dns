@@ -3,3 +3,7 @@
 
 ## 数据源
 从一台sg所在服务器获取未被污染的dns并上传仓库，确保dns未被污染。
+
+## 使用
+从中国大陆内拉取链：
+`https://cdn.jsdelivr.net/gh/lolitakon/gfw-dns/block-dns.txt`
