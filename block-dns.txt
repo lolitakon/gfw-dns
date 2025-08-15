@@ -4,8 +4,8 @@
 54.65.183.46   www.eisys-bcs.jp
 54.65.183.46   banner.eisys-bcs.jp
 35.76.209.179   login.dlsite.com
-52.198.208.156   play.dlsite.com
+54.178.47.249   play.dlsite.com
 # web-yahoo
-182.22.16.123   s.yjtag.jp
+182.22.25.252   s.yjtag.jp
 
 # end
