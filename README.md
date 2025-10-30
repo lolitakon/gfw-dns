@@ -4,6 +4,9 @@
 ## 数据源
 从cloudflare sg获取未被污染的dns并上传仓库，确保dns干净。
 
+## 维护域列表-暂时不包含cdn域，计划放到todo
+1. dliste
+
 ## 使用
 从中国大陆内拉取链：
 `https://cdn.jsdelivr.net/gh/lolitakon/gfw-dns/block-dns.txt`
