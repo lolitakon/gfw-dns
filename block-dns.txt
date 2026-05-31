@@ -1,11 +1,11 @@
 # begin
 
 # web-dlsite-ec2
-54.248.224.30   www.eisys-bcs.jp
-52.193.50.24   banner.eisys-bcs.jp
-35.79.149.238   login.dlsite.com
-35.73.125.113   play.dlsite.com
+52.193.50.24   www.eisys-bcs.jp
+54.248.224.30   banner.eisys-bcs.jp
+54.250.28.108   login.dlsite.com
+35.77.231.84   play.dlsite.com
 # web-yahoo
-182.22.25.124   s.yjtag.jp
+183.79.249.124   s.yjtag.jp
 
 # end
